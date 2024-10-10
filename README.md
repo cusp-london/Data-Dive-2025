@@ -26,5 +26,18 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
    Green Infrastructure Focus Map (2018): https://data.london.gov.uk/dataset/green-infrastructure-focus-map
 
    GiGL (Greenspace Information for Greater London CIC): https://data.london.gov.uk/dataset/spaces-to-visit & https://data.london.gov.uk/dataset/gigl-open-space-friends-group-data-sub-set
+   
+4. Transport
 
+   London [NUMBAT/crowding rail data] (http://crowding.data.tfl.gov.uk/), for changes in passenger numbers, train frequencies, etc.
+
+   [Cycling infrastructure database](https://cycling.data.tfl.gov.uk/), to look at changes in cycling infrastructure.
+
+   [Bus Open Data Service extracts](https://github.com/cusp-london/bus-open-data-rasters)
+
+5. Sustainability measures
+
+   [London Wellbeing and Sustainability Measure](https://data.london.gov.uk/dataset/london-wellbeing-and-sustainability-measure)
+
+   
    
