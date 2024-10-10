@@ -39,5 +39,9 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
 
    [London Wellbeing and Sustainability Measure](https://data.london.gov.uk/dataset/london-wellbeing-and-sustainability-measure)
 
-   
+6. Biodiversity
+
+   [Biodiversity Hotspots for Planning](https://data.london.gov.uk/dataset/biodiversity-hotspots-for-planning)
+
+   [BAP Habitat Suitability Data](https://www.gigl.org.uk/our-data-holdings/habitat-data/bap-habitat-suitability-data/)
    
