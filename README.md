@@ -7,7 +7,7 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
    
    Data description to read: [London Building Stock Model](https://www.london.gov.uk/programmes-and-strategies/environment-and-climate-change/energy/energy-buildings/london-building-stock-model)
    
-   Data access link: [London Building Stock Model Related Data] (https://data.london.gov.uk/dataset/london-building-stock-model)
+   Data access link: [London Building Stock Model Related Data](https://data.london.gov.uk/dataset/london-building-stock-model)
 
 2. Urban Health Promoting by Parks (mentor: Dr Linus Dietz)
 
@@ -19,17 +19,17 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
 
    [Tree Equity Score](https://uk.treeequityscore.org/#methods)
 
-   [London Tree Canopy Cover](https://data.london.gov.uk/dataset/canopy-cover-2024 & Green Cover 2024: https://data.london.gov.uk/dataset/green-cover-2024)
+   [London Tree Canopy Cover](https://data.london.gov.uk/dataset/canopy-cover-2024) & [Green Cover 2024](https://data.london.gov.uk/dataset/green-cover-2024)
 
    [London Green and Blue Cover](https://data.london.gov.uk/dataset/green-and-blue-cover)
 
    [Green Infrastructure Focus Map (2018)](https://data.london.gov.uk/dataset/green-infrastructure-focus-map)
 
-   [GiGL (Greenspace Information for Greater London CIC)](https://data.london.gov.uk/dataset/spaces-to-visit & https://data.london.gov.uk/dataset/gigl-open-space-friends-group-data-sub-set)
+   [GiGL_Greenspace Information for Greater London CIC Dataset 1](https://data.london.gov.uk/dataset/spaces-to-visit) & [GiGL_Greenspace Information for Greater London CIC Dataset 2](https://data.london.gov.uk/dataset/gigl-open-space-friends-group-data-sub-set)
    
 4. Transport
 
-   London [NUMBAT/crowding rail data] (http://crowding.data.tfl.gov.uk/), for changes in passenger numbers, train frequencies, etc.
+   [London NUMBAT/crowding rail data](http://crowding.data.tfl.gov.uk/), for changes in passenger numbers, train frequencies, etc.
 
    [Cycling infrastructure database](https://cycling.data.tfl.gov.uk/), to look at changes in cycling infrastructure.
 
