@@ -22,8 +22,14 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
 3. UK Trees & London case study
 
    [Tree Equity Score](https://uk.treeequityscore.org/#methods)
-
+   
+   [London Trees Guided Reading:](https://www.london.gov.uk/programmes-and-strategies/environment-and-climate-change/parks-green-spaces-and-biodiversity/trees-and-woodlands/london-tree-map?ac-37687=37686)
+   - [Relevant Data Source:] (https://data.london.gov.uk/dataset/local-authority-maintained-trees)
+   - [Relevant Application - TreeTalks] (https://www.treetalk.eco/)
+     
    [London Tree Canopy Cover](https://data.london.gov.uk/dataset/canopy-cover-2024) & [Green Cover 2024](https://data.london.gov.uk/dataset/green-cover-2024)
+
+   
 
    [London Green and Blue Cover](https://data.london.gov.uk/dataset/green-and-blue-cover)
 
@@ -31,7 +37,7 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
 
    [GiGL_Greenspace Information for Greater London CIC Dataset 1](https://data.london.gov.uk/dataset/spaces-to-visit) & [GiGL_Greenspace Information for Greater London CIC Dataset 2](https://data.london.gov.uk/dataset/gigl-open-space-friends-group-data-sub-set)
    
-4. Transport
+5. Transport
 
    [London NUMBAT/crowding rail data](http://crowding.data.tfl.gov.uk/), for changes in passenger numbers, train frequencies, etc.
 
@@ -39,11 +45,11 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
 
    [Bus Open Data Service extracts](https://github.com/cusp-london/bus-open-data-rasters)
 
-5. Sustainability measures
+6. Sustainability measures
 
    [London Wellbeing and Sustainability Measure](https://data.london.gov.uk/dataset/london-wellbeing-and-sustainability-measure)
 
-6. Biodiversity
+7. Biodiversity
 
    [Biodiversity Hotspots for Planning](https://data.london.gov.uk/dataset/biodiversity-hotspots-for-planning)
 
