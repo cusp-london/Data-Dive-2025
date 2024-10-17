@@ -2,7 +2,7 @@
 The data repository for CUSP London Data Dive 2025: Sustainable Cities (February 2025)
 
 ## Challenges
-1. Are buildings' energy efficiency performance affected by certain features, or any other exogenous environment factors? (e.g., building's age, number of floors, materials, roofs, etc.) - contributed by Dr Georgia Panagiotidou.
+1. Are buildings' energy efficiency performance affected by certain features, or any other exogenous environment factors? (e.g., building's age, number of floors, materials, roofs, etc.) - contributed by *Dr Georgia Panagiotidou*.
 
 ## Datasets
 1. Urban Building Energy Efficiency (mentor: Dr Yijing Li & Crown Estate)
