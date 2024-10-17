@@ -24,8 +24,8 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
    [Tree Equity Score](https://uk.treeequityscore.org/#methods)
    
    [London Trees Guided Reading:](https://www.london.gov.uk/programmes-and-strategies/environment-and-climate-change/parks-green-spaces-and-biodiversity/trees-and-woodlands/london-tree-map?ac-37687=37686)
-   - [Relevant Data Source:] (https://data.london.gov.uk/dataset/local-authority-maintained-trees)
-   - [Relevant Application - TreeTalks] (https://www.treetalk.eco/)
+   - [Relevant Data Source:](https://data.london.gov.uk/dataset/local-authority-maintained-trees)
+   - [Relevant Application - TreeTalks](https://www.treetalk.eco/)
      
    [London Tree Canopy Cover](https://data.london.gov.uk/dataset/canopy-cover-2024) & [Green Cover 2024](https://data.london.gov.uk/dataset/green-cover-2024)
 
