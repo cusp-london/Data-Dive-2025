@@ -45,13 +45,28 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
 
    [Bus Open Data Service extracts](https://github.com/cusp-london/bus-open-data-rasters)
 
-6. Sustainability measures
+6. Sustainability measures and Biodiversity
 
    [London Wellbeing and Sustainability Measure](https://data.london.gov.uk/dataset/london-wellbeing-and-sustainability-measure)
-
-7. Biodiversity
 
    [Biodiversity Hotspots for Planning](https://data.london.gov.uk/dataset/biodiversity-hotspots-for-planning)
 
    [BAP Habitat Suitability Data](https://www.gigl.org.uk/our-data-holdings/habitat-data/bap-habitat-suitability-data/)
+   
+7. London Air
+
+   Air Quality
+
+   **Greenhouse Gas Emission:**
+ 
+   [London Energy and Greenhouse Gas Inventory (LEGGI)](London Energy and Greenhouse Gas Inventory (LEGGI)) 2008-2021.
+
+   [London’s consumption based greenhouse gas emissions](https://www.data.gov.uk/dataset/e84ba8d7-1f32-4025-82fd-23950662f8f6/london-s-consumption-based-greenhouse-gas-emissions) 2001-2021.
+   
+
+
+
+
+
+
    
