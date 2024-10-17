@@ -29,15 +29,13 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
      
    [London Tree Canopy Cover](https://data.london.gov.uk/dataset/canopy-cover-2024) & [Green Cover 2024](https://data.london.gov.uk/dataset/green-cover-2024)
 
-   
-
    [London Green and Blue Cover](https://data.london.gov.uk/dataset/green-and-blue-cover)
 
    [Green Infrastructure Focus Map (2018)](https://data.london.gov.uk/dataset/green-infrastructure-focus-map)
 
    [GiGL_Greenspace Information for Greater London CIC Dataset 1](https://data.london.gov.uk/dataset/spaces-to-visit) & [GiGL_Greenspace Information for Greater London CIC Dataset 2](https://data.london.gov.uk/dataset/gigl-open-space-friends-group-data-sub-set)
    
-5. Transport
+4. Transport
 
    [London NUMBAT/crowding rail data](http://crowding.data.tfl.gov.uk/), for changes in passenger numbers, train frequencies, etc.
 
@@ -45,7 +43,7 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
 
    [Bus Open Data Service extracts](https://github.com/cusp-london/bus-open-data-rasters)
 
-6. Sustainability measures and Biodiversity
+5. Sustainability measures and Biodiversity
 
    [London Wellbeing and Sustainability Measure](https://data.london.gov.uk/dataset/london-wellbeing-and-sustainability-measure)
 
@@ -53,7 +51,7 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
 
    [BAP Habitat Suitability Data](https://www.gigl.org.uk/our-data-holdings/habitat-data/bap-habitat-suitability-data/)
    
-7. London Air
+6. London Air
 
    Air Quality
 
@@ -62,6 +60,14 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
    [London Energy and Greenhouse Gas Inventory (LEGGI)](London Energy and Greenhouse Gas Inventory (LEGGI)) 2008-2021.
 
    [London’s consumption based greenhouse gas emissions](https://www.data.gov.uk/dataset/e84ba8d7-1f32-4025-82fd-23950662f8f6/london-s-consumption-based-greenhouse-gas-emissions) 2001-2021.
+
+7. Urban Wastes Management
+
+   [London Household Waste Recycling Rate](https://data.london.gov.uk/dataset/household-waste-recycling-rates-borough).
+
+   [Full data to be downloaded (2005-2022)](https://www.gov.uk/government/statistical-data-sets/env18-local-authority-collected-waste-annual-results-tables)
+
+   [Local Authority Collected Waste Management, London](https://data.london.gov.uk/dataset/local-authority-collected-waste-management-london)
    
 
 
