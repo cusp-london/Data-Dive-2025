@@ -69,7 +69,25 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
 
    [Local Authority Collected Waste Management, London](https://data.london.gov.uk/dataset/local-authority-collected-waste-management-london)
    
+8. Energey Efficiency & Poverty related
 
+   [GLA Economics Labour Market Analysis](https://data.london.gov.uk/dataset/gla-economics-covid-19-labour-market-analysis)
+
+   [Consumption of Other Fuels, Borough](https://data.london.gov.uk/dataset/consumption-other-fuels-borough)
+
+   [Fuel Poverty](https://data.london.gov.uk/dataset/fuel-poverty)
+
+   [Children in Low Income Families](https://data.london.gov.uk/dataset/children-in-low-income-families)
+
+   [Domestic Energy Efficiency Ratings, Borough](https://data.london.gov.uk/dataset/domestic-energy-efficiency-ratings-borough)
+  
+10. Other relevants
+
+   [London Flood Risk](https://data.london.gov.uk/dataset/flood-risk)
+
+   [Statistical GIS Boundary Files for London](https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london)
+
+   
 
 
 
