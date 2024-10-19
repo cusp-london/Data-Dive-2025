@@ -57,7 +57,7 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
 
    **Greenhouse Gas Emission:**
  
-   [London Energy and Greenhouse Gas Inventory (LEGGI)](London Energy and Greenhouse Gas Inventory (LEGGI)) 2008-2021.
+   [London Energy and Greenhouse Gas Inventory, LEGGI](https://data.london.gov.uk/dataset/leggi) 2008-2021.
 
    [London’s consumption based greenhouse gas emissions](https://www.data.gov.uk/dataset/e84ba8d7-1f32-4025-82fd-23950662f8f6/london-s-consumption-based-greenhouse-gas-emissions) 2001-2021.
 
@@ -83,9 +83,9 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
   
 10. Other relevants
 
-   [London Flood Risk](https://data.london.gov.uk/dataset/flood-risk)
+    [London Flood Risk](https://data.london.gov.uk/dataset/flood-risk)
 
-   [Statistical GIS Boundary Files for London](https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london)
+    [Statistical GIS Boundary Files for London](https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london)
 
    
 
