@@ -1,17 +1,20 @@
 # Data-Dive-2025
-The data repository for CUSP London Data Dive 2025: Sustainable Cities (February 2025). 
+
+The data repository for CUSP London Data Dive 2025: Sustainable Cities (February 2025).
 
 - Industrial Partners: [Crown Estate](https://www.thecrownestate.co.uk/), [Geolytix](https://geolytix.com/)
 
 ## Challenges
-1. Are buildings' energy efficiency performance affected by certain features, or any other exogenous environment factors? (e.g., building's age, number of floors, materials, roofs, etc.) - contributed by *Dr Georgia Panagiotidou*.
-2. Are urban parks really playing a role promoting citizens' health? - contributed by *Dr Linus Dietz*.
+
+1. Are buildings' energy efficiency performance affected by certain features, or any other exogenous environment factors? (e.g., building's age, number of floors, materials, roofs, etc.) - contributed by _Dr Georgia Panagiotidou_.
+2. Are urban parks really playing a role promoting citizens' health? - contributed by _Dr Linus Dietz_.
 
 ## Datasets
+
 1. Urban Building Energy Efficiency (mentor: Dr Yijing Li & Crown Estate)
-   
+
    Data description to read: [London Building Stock Model](https://www.london.gov.uk/programmes-and-strategies/environment-and-climate-change/energy/energy-buildings/london-building-stock-model)
-   
+
    Data access link: [London Building Stock Model Related Data](https://data.london.gov.uk/dataset/london-building-stock-model)
 
 2. Urban Health Promoting by Parks (mentor: Dr Linus Dietz)
@@ -23,11 +26,12 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
 3. UK Trees & London case study
 
    [Tree Equity Score](https://uk.treeequityscore.org/#methods)
-   
+
    [London Trees Guided Reading:](https://www.london.gov.uk/programmes-and-strategies/environment-and-climate-change/parks-green-spaces-and-biodiversity/trees-and-woodlands/london-tree-map?ac-37687=37686)
+
    - [Relevant Data Source:](https://data.london.gov.uk/dataset/local-authority-maintained-trees)
    - [Relevant Application - TreeTalks](https://www.treetalk.eco/)
-     
+
    [London Tree Canopy Cover](https://data.london.gov.uk/dataset/canopy-cover-2024) & [Green Cover 2024](https://data.london.gov.uk/dataset/green-cover-2024)
 
    [London Green and Blue Cover](https://data.london.gov.uk/dataset/green-and-blue-cover)
@@ -35,7 +39,7 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
    [Green Infrastructure Focus Map (2018)](https://data.london.gov.uk/dataset/green-infrastructure-focus-map)
 
    [GiGL_Greenspace Information for Greater London CIC Dataset 1](https://data.london.gov.uk/dataset/spaces-to-visit) & [GiGL_Greenspace Information for Greater London CIC Dataset 2](https://data.london.gov.uk/dataset/gigl-open-space-friends-group-data-sub-set)
-   
+
 4. Transport
 
    [London NUMBAT/crowding rail data](http://crowding.data.tfl.gov.uk/), for changes in passenger numbers, train frequencies, etc.
@@ -51,13 +55,15 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
    [Biodiversity Hotspots for Planning](https://data.london.gov.uk/dataset/biodiversity-hotspots-for-planning)
 
    [BAP Habitat Suitability Data](https://www.gigl.org.uk/our-data-holdings/habitat-data/bap-habitat-suitability-data/)
-   
-6. London Air
 
-   Air Quality
+6. Air Quality
+
+   [Breathe London](https://www.breathelondon.org/): current and historical data across Breathe London sensor network, API available. Low cost sensors but good coverage.
+
+   [London Air Quality Network](https://londonair.org.uk/LondonAir): Calibrated air quality sensors, with historical and live data available. API available or via openair R package (https://davidcarslaw.github.io/openair/).
 
    **Greenhouse Gas Emission:**
- 
+
    [London Energy and Greenhouse Gas Inventory, LEGGI](https://data.london.gov.uk/dataset/leggi) 2008-2021.
 
    [London’s consumption based greenhouse gas emissions](https://www.data.gov.uk/dataset/e84ba8d7-1f32-4025-82fd-23950662f8f6/london-s-consumption-based-greenhouse-gas-emissions) 2001-2021.
@@ -69,7 +75,7 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
    [Full data to be downloaded (2005-2022)](https://www.gov.uk/government/statistical-data-sets/env18-local-authority-collected-waste-annual-results-tables)
 
    [Local Authority Collected Waste Management, London](https://data.london.gov.uk/dataset/local-authority-collected-waste-management-london)
-   
+
 8. Energey Efficiency & Poverty related
 
    [GLA Economics Labour Market Analysis](https://data.london.gov.uk/dataset/gla-economics-covid-19-labour-market-analysis)
@@ -81,19 +87,11 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
    [Children in Low Income Families](https://data.london.gov.uk/dataset/children-in-low-income-families)
 
    [Domestic Energy Efficiency Ratings, Borough](https://data.london.gov.uk/dataset/domestic-energy-efficiency-ratings-borough)
-  
-10. Other relevants
 
-    [London Flood Risk](https://data.london.gov.uk/dataset/flood-risk)
+9. Other relevants
 
-    [Statistical GIS Boundary Files for London](https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london)
+   [London Flood Risk](https://data.london.gov.uk/dataset/flood-risk)
 
-    [ONS 2021 Census Data](https://www.nomisweb.co.uk/sources/census_2021)
+   [Statistical GIS Boundary Files for London](https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london)
 
-   
-
-
-
-
-
-   
+   [ONS 2021 Census Data](https://www.nomisweb.co.uk/sources/census_2021)
