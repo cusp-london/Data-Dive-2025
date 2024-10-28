@@ -87,8 +87,17 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
    [Children in Low Income Families](https://data.london.gov.uk/dataset/children-in-low-income-families)
 
    [Domestic Energy Efficiency Ratings, Borough](https://data.london.gov.uk/dataset/domestic-energy-efficiency-ratings-borough)
+9. Urban Services for Retail and Banking
 
-9. Other relevants
+   [UK Banking and Building Society Data Reading](https://geolytix.com/blog/banking-building-societies-locations/)
+   
+   [Banking locations - GEOLYTIX](https://drive.google.com/file/d/1RjyAK7qa-qoKtU25KI4e-_mmdxW601tj/view)
+   
+   [UK Supermarket Retail Data Reading](https://geolytix.com/blog/supermarket-retail-points/)
+
+   [UK Retails locations - GEOLYTIX](https://drive.google.com/file/d/1B8M7m86rQg2sx2TsHhFa2d-x-dZ1DbSy/view)
+
+11. Other relevants
 
    [London Flood Risk](https://data.london.gov.uk/dataset/flood-risk)
 
