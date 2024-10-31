@@ -97,9 +97,17 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
 
    [UK Retails locations - GEOLYTIX](https://drive.google.com/file/d/1B8M7m86rQg2sx2TsHhFa2d-x-dZ1DbSy/view)
 
-11. Other relevants
+10. Climate Risks
 
-   [London Flood Risk](https://data.london.gov.uk/dataset/flood-risk)
+    [London Heat Map (by borough)](https://data.london.gov.uk/dataset/london-heat-map)
+
+    [Properties Vulnerable to Heat Impacts in London](https://data.london.gov.uk/dataset/properties-vulnerable-to-heat-impacts-in-london)
+
+    [Climate Risk Mapping](https://data.london.gov.uk/dataset/climate-risk-mapping)
+
+    [London Flood Risk](https://data.london.gov.uk/dataset/flood-risk)
+   
+12. Other relevants
 
    [Statistical GIS Boundary Files for London](https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london)
 
