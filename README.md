@@ -10,19 +10,19 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
 2. Are urban parks really playing a role promoting citizens' health? - contributed by _Dr Linus Dietz_.
 3. How the climate risks (e.g., flood, heatwave) affect urban livability? -
 4. How the urban transportation modes can
-**Possible Parks Questions?  Mentor - Linus Dietz**
-•	How do urban parks improve environmental sustainability and contribute to biodiversity in cities? 
-•	What is the impact of urban parks on improving air quality, and how does this benefit respiratory health?
-•	How do parks manage stormwater and help mitigate the effects of urban flooding?
-•	How do parks help reduce urban heat island effects, and how might this contribute to better health outcomes in heat waves?
-•	How do green spaces in urban areas help reduce stress, anxiety, and depression?
-o	(Using Mental Health data from previous Data Dive?)
-•	How can parks be integrated into urban planning to create more livable, sustainable, and healthy cities?
-**Trees & London Case Study Possible Questions:**
-•	Can trees help London adapt to extreme weather events, such as heatwaves, floods, and heavy rainfall?
-•	What role do trees play in reducing surface runoff and preventing urban flooding?
-•	What economic benefits do trees bring to local businesses in terms of attracting customers and increasing sales?
-**Urban Waste Management Possible Questions**:
+**Possible Parks Questions?  Mentor - Linus Dietz** <br>
+•	How do urban parks improve environmental sustainability and contribute to biodiversity in cities? <br>
+•	What is the impact of urban parks on improving air quality, and how does this benefit respiratory health?<br>
+•	How do parks manage stormwater and help mitigate the effects of urban flooding?<br>
+•	How do parks help reduce urban heat island effects, and how might this contribute to better health outcomes in heat waves?<br>
+•	How do green spaces in urban areas help reduce stress, anxiety, and depression?<br>
+o	(Using Mental Health data from previous Data Dive?) <br>
+•	How can parks be integrated into urban planning to create more livable, sustainable, and healthy cities? <br>
+**Trees & London Case Study Possible Questions:**<br>
+•	Can trees help London adapt to extreme weather events, such as heatwaves, floods, and heavy rainfall? <br>
+•	What role do trees play in reducing surface runoff and preventing urban flooding?<br>
+•	What economic benefits do trees bring to local businesses in terms of attracting customers and increasing sales? <br>
+**Urban Waste Management Possible Questions**:<br>
 •	What role do waste-to-energy (WTE) facilities play in managing urban waste, and how effective are they in reducing landfill use?
 •	How effective is urban recycling in reducing waste sent to landfills, and what barriers exist to improving recycling rates in cities?
 •	What role do smart waste management technologies, such as IoT sensors and data analytics, play in optimizing waste collection and disposal in cities?
