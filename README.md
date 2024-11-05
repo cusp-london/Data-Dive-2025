@@ -23,15 +23,15 @@ o	(Using Mental Health data from previous Data Dive?) <br>
 •	What role do trees play in reducing surface runoff and preventing urban flooding?<br>
 •	What economic benefits do trees bring to local businesses in terms of attracting customers and increasing sales? <br>
 **Urban Waste Management Possible Questions**:<br>
-•	What role do waste-to-energy (WTE) facilities play in managing urban waste, and how effective are they in reducing landfill use?
-•	How effective is urban recycling in reducing waste sent to landfills, and what barriers exist to improving recycling rates in cities?
-•	What role do smart waste management technologies, such as IoT sensors and data analytics, play in optimizing waste collection and disposal in cities?
-**Energy Efficiency & Poverty related**
-•	How do factors like the age of housing stock, building materials, and construction styles affect energy efficiency ratings in different boroughs?
-•	What initiatives have different boroughs in London introduced to improve the energy efficiency of domestic properties?
-•	How successful have government-led programs, such as the Green Homes Grant or ECO (Energy Company Obligation), been in improving energy efficiency ratings in London's homes?
-•	Are there disparities in energy efficiency ratings that could exacerbate fuel poverty in certain boroughs?
-•	How can innovations in construction, such as green building materials and energy-efficient design, be used to improve the energy efficiency of homes in different boroughs?
+•	What role do waste-to-energy (WTE) facilities play in managing urban waste, and how effective are they in reducing landfill use?<br>
+•	How effective is urban recycling in reducing waste sent to landfills, and what barriers exist to improving recycling rates in cities?<br>
+•	What role do smart waste management technologies, such as IoT sensors and data analytics, play in optimizing waste collection and disposal in cities?<br>
+**Energy Efficiency & Poverty related**<br>
+•	How do factors like the age of housing stock, building materials, and construction styles affect energy efficiency ratings in different boroughs?<br>
+•	What initiatives have different boroughs in London introduced to improve the energy efficiency of domestic properties?<br>
+•	How successful have government-led programs, such as the Green Homes Grant or ECO (Energy Company Obligation), been in improving energy efficiency ratings in London's homes?<br>
+•	Are there disparities in energy efficiency ratings that could exacerbate fuel poverty in certain boroughs?<br>
+•	How can innovations in construction, such as green building materials and energy-efficient design, be used to improve the energy efficiency of homes in different boroughs?<br>
 
 
 
