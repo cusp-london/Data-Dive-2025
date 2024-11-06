@@ -49,7 +49,9 @@ o	(Using Mental Health data from previous Data Dive?) <br>
 
    Useful dataset to start with: https://github.com/LinusDietz/Health-Promoting-Parks-Replication/tree/main/data
 
-3. UK Trees & London case study
+   [Mental Health index at LSOA level](https://pldr.org/dataset/2noyv/small-area-mental-health-index-samhi)
+
+4. UK Trees & London case study
 
    [Tree Equity Score](https://uk.treeequityscore.org/#methods)
 
@@ -66,7 +68,7 @@ o	(Using Mental Health data from previous Data Dive?) <br>
 
    [GiGL_Greenspace Information for Greater London CIC Dataset 1](https://data.london.gov.uk/dataset/spaces-to-visit) & [GiGL_Greenspace Information for Greater London CIC Dataset 2](https://data.london.gov.uk/dataset/gigl-open-space-friends-group-data-sub-set)
 
-4. Transport
+5. Transport
 
    [London NUMBAT/crowding rail data](http://crowding.data.tfl.gov.uk/), for changes in passenger numbers, train frequencies, etc.
 
@@ -74,7 +76,7 @@ o	(Using Mental Health data from previous Data Dive?) <br>
 
    [Bus Open Data Service extracts](https://github.com/cusp-london/bus-open-data-rasters)
 
-5. Sustainability measures and Biodiversity
+6. Sustainability measures and Biodiversity
 
    [London Wellbeing and Sustainability Measure](https://data.london.gov.uk/dataset/london-wellbeing-and-sustainability-measure)
 
@@ -82,7 +84,7 @@ o	(Using Mental Health data from previous Data Dive?) <br>
 
    [BAP Habitat Suitability Data](https://www.gigl.org.uk/our-data-holdings/habitat-data/bap-habitat-suitability-data/)
 
-6. Air Quality
+7. Air Quality
 
    [Breathe London](https://www.breathelondon.org/): current and historical data across Breathe London sensor network, API available. Low cost sensors but good coverage.
 
@@ -94,7 +96,7 @@ o	(Using Mental Health data from previous Data Dive?) <br>
 
    [London’s consumption based greenhouse gas emissions](https://www.data.gov.uk/dataset/e84ba8d7-1f32-4025-82fd-23950662f8f6/london-s-consumption-based-greenhouse-gas-emissions) 2001-2021.
 
-7. Urban Wastes Management
+8. Urban Wastes Management
 
    [London Household Waste Recycling Rate](https://data.london.gov.uk/dataset/household-waste-recycling-rates-borough).
 
@@ -102,7 +104,7 @@ o	(Using Mental Health data from previous Data Dive?) <br>
 
    [Local Authority Collected Waste Management, London](https://data.london.gov.uk/dataset/local-authority-collected-waste-management-london)
 
-8. Energey Efficiency & Poverty related
+9. Energey Efficiency & Poverty related
 
    [GLA Economics Labour Market Analysis](https://data.london.gov.uk/dataset/gla-economics-covid-19-labour-market-analysis)
 
@@ -113,7 +115,7 @@ o	(Using Mental Health data from previous Data Dive?) <br>
    [Children in Low Income Families](https://data.london.gov.uk/dataset/children-in-low-income-families)
 
    [Domestic Energy Efficiency Ratings, Borough](https://data.london.gov.uk/dataset/domestic-energy-efficiency-ratings-borough)
-9. Urban Services for Retail and Banking
+10. Urban Services for Retail and Banking
 
    [UK Banking and Building Society Data Reading](https://geolytix.com/blog/banking-building-societies-locations/)
    
@@ -123,7 +125,7 @@ o	(Using Mental Health data from previous Data Dive?) <br>
 
    [UK Retails locations - GEOLYTIX](https://drive.google.com/file/d/1B8M7m86rQg2sx2TsHhFa2d-x-dZ1DbSy/view)
 
-10. Climate Risks
+11. Climate Risks
 
     [London Heat Map (by borough)](https://data.london.gov.uk/dataset/london-heat-map)
 
@@ -133,7 +135,7 @@ o	(Using Mental Health data from previous Data Dive?) <br>
 
     [London Flood Risk](https://data.london.gov.uk/dataset/flood-risk)
    
-11. Other relevants
+12. Other relevants
 
     [Statistical GIS Boundary Files for London](https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london)
 
