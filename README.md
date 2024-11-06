@@ -7,9 +7,10 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
 ## Challenges
 
 1. Are buildings' energy efficiency performance affected by certain features, or any other exogenous environment factors?
+   
    For example, how do factors like the age of housing stock, building materials, roofs, and construction styles affect energy efficiency ratings in different boroughs? What policy initiatives have different boroughs in London introduced to improve the energy efficiency of domestic properties? Are there disparities in energy efficiency ratings that could exacerbate fuel poverty in certain boroughs? To what extent can innovations in construction, such as green building materials and energy-efficient design, be used to improve the energy efficiency of homes in different boroughs?
 
-2. Are urban parks really playing a role promoting citizens' health? 
+3. Are urban parks really playing a role promoting citizens' health? 
    For example, 
 •	How do urban parks improve environmental sustainability and contribute to biodiversity in cities? <br>
 •	What is the impact of urban parks on improving air quality, and how does this benefit respiratory health?<br>
