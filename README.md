@@ -6,11 +6,11 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
 
 ## Challenges
 
-1. Are buildings' energy efficiency performance affected by certain features, or any other exogenous environment factors? (e.g., building's age, number of floors, materials, roofs, etc.) - contributed by _Dr Georgia Panagiotidou_.
-2. Are urban parks really playing a role promoting citizens' health? - contributed by _Dr Linus Dietz_.
-3. How the climate risks (e.g., flood, heatwave) affect urban livability? -
-4. How the urban transportation modes can
-**Possible Parks Questions?  Mentor - Linus Dietz** <br>
+1. Are buildings' energy efficiency performance affected by certain features, or any other exogenous environment factors?
+   For example, how do factors like the age of housing stock, building materials, roofs, and construction styles affect energy efficiency ratings in different boroughs? What policy initiatives have different boroughs in London introduced to improve the energy efficiency of domestic properties? Are there disparities in energy efficiency ratings that could exacerbate fuel poverty in certain boroughs? To what extent can innovations in construction, such as green building materials and energy-efficient design, be used to improve the energy efficiency of homes in different boroughs?
+
+2. Are urban parks really playing a role promoting citizens' health? 
+   For example, 
 •	How do urban parks improve environmental sustainability and contribute to biodiversity in cities? <br>
 •	What is the impact of urban parks on improving air quality, and how does this benefit respiratory health?<br>
 •	How do parks manage stormwater and help mitigate the effects of urban flooding?<br>
@@ -18,24 +18,29 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
 •	How do green spaces in urban areas help reduce stress, anxiety, and depression?<br>
 o	(Using Mental Health data from previous Data Dive?) <br>
 •	How can parks be integrated into urban planning to create more livable, sustainable, and healthy cities? <br>
-**Trees & London Case Study Possible Questions:**<br>
+
+
+
+
 •	Can trees help London adapt to extreme weather events, such as heatwaves, floods, and heavy rainfall? <br>
 •	What role do trees play in reducing surface runoff and preventing urban flooding?<br>
 •	What economic benefits do trees bring to local businesses in terms of attracting customers and increasing sales? <br>
+
+
+4. How the climate risks (e.g., flood, heatwave) affect urban livability? -
+5. How the urban transportation modes can
+**Possible Parks Questions?  Mentor - Linus Dietz** <br>
+
 **Urban Waste Management Possible Questions**:<br>
 •	What role do waste-to-energy (WTE) facilities play in managing urban waste, and how effective are they in reducing landfill use?<br>
 •	How effective is urban recycling in reducing waste sent to landfills, and what barriers exist to improving recycling rates in cities?<br>
 •	What role do smart waste management technologies, such as IoT sensors and data analytics, play in optimizing waste collection and disposal in cities?<br>
-**Energy Efficiency & Poverty related**<br>
-•	How do factors like the age of housing stock, building materials, and construction styles affect energy efficiency ratings in different boroughs?<br>
-•	What initiatives have different boroughs in London introduced to improve the energy efficiency of domestic properties?<br>
-•	How successful have government-led programs, such as the Green Homes Grant or ECO (Energy Company Obligation), been in improving energy efficiency ratings in London's homes?<br>
-•	Are there disparities in energy efficiency ratings that could exacerbate fuel poverty in certain boroughs?<br>
-•	How can innovations in construction, such as green building materials and energy-efficient design, be used to improve the energy efficiency of homes in different boroughs?<br>
 
 
 
-## Datasets
+
+
+## Some Suggested Datasets (Feel free to explore more!)
 
 1. Urban Building Energy Efficiency & Poverty Related (mentor: Dr Yijing Li & Crown Estate)
 
