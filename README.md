@@ -24,7 +24,7 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
 
 5. How the urban waste management contribute to cities' sustainability goals towards 2030 and 2050?
 
-   For exmaple, what role do waste-to-energy (WTE) facilities play in managing urban waste, and how effective are they in reducing landfill use? How effective is urban recycling in reducing waste sent to landfills, and what barriers exist to improving recycling rates in cities? What role do smart waste management technologies, such as IoT sensors and data analytics, play in optimizing waste collection and disposal in cities?
+   For exmaple, what role do waste-to-energy (WTE) facilities play in managing urban waste, and how effective are they in reducing landfill use? How effective is urban recycling in reducing waste sent to landfills, and what barriers exist to improving recycling rates among boroughs? What role do smart waste management technologies, such as IoT sensors and data analytics, play in optimizing waste collection and disposal in cities at localised scale?
 
 
 ## Some Suggested Datasets (Feel free to explore more!)
