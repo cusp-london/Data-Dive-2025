@@ -18,12 +18,13 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
 
    For example, how do parks manage stormwater and help mitigate the effects of urban flooding? How do parks help reduce urban heat island effects, and how might this contribute to better health outcomes in heat waves? How can parks be integrated into urban planning to create more livable, sustainable, and healthy cities? Can trees help London adapt to extreme weather events, such as heatwaves, floods, and heavy rainfall? What role do trees play in reducing surface runoff and preventing urban flooding? What economic benefits do trees bring to local businesses/retails in terms of attracting customers and increasing sales? 
 
-4. How the urban transportation modes can better support sustainable economy development?
+4. How the urban transportation modes can better support sustainable economy development in metropolitan cities?
 
-   For example, retails, transport, air quality..........
+   For example, how the air quality alongside road network will improve towards 2030 sustainability goals (i.e., PM2.5, PM10, NOx), with predicted future mobility scenarios? How it will then pose influences on local banks and retails site selections?
 
-5. Urban Waste Management Possible Questions**:<br>
-•	What role do waste-to-energy (WTE) facilities play in managing urban waste, and how effective are they in reducing landfill use?<br>
+5. How the urban waste management contribute to cities' sustainability goals towards 2030 and 2050?
+
+   For exmaple, what role do waste-to-energy (WTE) facilities play in managing urban waste, and how effective are they in reducing landfill use?<br>
 •	How effective is urban recycling in reducing waste sent to landfills, and what barriers exist to improving recycling rates in cities?<br>
 •	What role do smart waste management technologies, such as IoT sensors and data analytics, play in optimizing waste collection and disposal in cities?<br>
 
