@@ -79,6 +79,7 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
    [Bus Open Data Service extracts](https://github.com/cusp-london/bus-open-data-rasters)
 
    [TravelTime APIs](https://docs.traveltime.com/api/overview/isochrones)
+   [HERE API](https://www.here.com/platform?cid=Developer_Api-Google-YT-0-Dev-EMEA-UK-matchtype=p&utm_source=Google&utm_medium=ppc&utm_campaign=Dev_PaidSearch_DevPortal_AlwaysOn&utm_term=here%20api&gad_source=1&gclid=Cj0KCQiA-5a9BhCBARIsACwMkJ6UZS4-LBteMAOfqBXSu1Waq4640VvBsTSOGiY7A-AwoXhg5ulBosIaAnALEALw_wcB&gclsrc=aw.ds)
 
 6. Sustainability measures and Biodiversity
 
