@@ -45,7 +45,9 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
 
    [Domestic Energy Efficiency Ratings, Borough](https://data.london.gov.uk/dataset/domestic-energy-efficiency-ratings-borough)
 
-2. Urban Health Promoting by Parks (mentor: Dr Linus Dietz)
+   [Planning London Datahub](https://planningdata.london.gov.uk/api-guest/) with its [API connection technical document](https://www.london.gov.uk/sites/default/files/planninglondondatahub_api_connection_technical_documentation_v1.pdf) for details.
+
+3. Urban Health Promoting by Parks (mentor: Dr Linus Dietz)
 
    Paper to read/be inspired: [Examining Inequality in Park Quality for Promoting Health Across 35 Global Cities](https://arxiv.org/abs/2407.15770)
 
@@ -53,7 +55,7 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
 
    [Mental Health index at LSOA level](https://pldr.org/dataset/2noyv/small-area-mental-health-index-samhi)
 
-3. UK Trees & London case study
+4. UK Trees & London case study
 
    [Tree Equity Score](https://uk.treeequityscore.org/#methods)
 
@@ -70,7 +72,7 @@ The data repository for CUSP London Data Dive 2025: Sustainable Cities (February
 
    [GiGL_Greenspace Information for Greater London CIC Dataset 1](https://data.london.gov.uk/dataset/spaces-to-visit) & [GiGL_Greenspace Information for Greater London CIC Dataset 2](https://data.london.gov.uk/dataset/gigl-open-space-friends-group-data-sub-set)
 
-4. Transport
+5. Transport
 
    [London NUMBAT/crowding rail data](http://crowding.data.tfl.gov.uk/), for changes in passenger numbers, train frequencies, etc.
 
